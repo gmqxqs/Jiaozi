@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--声音弹出框进度条的整个样式-->
+    <item android:id="@android:id/background">
+        <shape>
+            <solid android:color="#ffffffff" />
+            <corners android:radius="2dp" />
+        </shape>
+    </item>
+    <!--声音弹出框运行过的进度样式-->
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape>
+                <solid android:color="#fff85959" />
+                <corners android:radius="2dp" />
+            </shape>
+        </clip>
+    </item>
+</layer-list>

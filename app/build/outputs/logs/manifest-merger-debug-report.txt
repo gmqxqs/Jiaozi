@@ -1,0 +1,355 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:2:1-104:12
+INJECTED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:2:1-104:12
+INJECTED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:2:1-104:12
+INJECTED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:2:1-104:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\8fab8df690c4f67ba957cc8d21a9ab62\AndroidManifest.xml:17:1-22:12
+MERGED from [:jiaozivideoplayer] E:\company\JiaoZiVideoPlayer-develop\jiaozivideoplayer\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-13:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.8] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\558cffe123b17a4017168e0496eed675\AndroidManifest.xml:2:1-9:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.4] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\e09636cde8ce1d4a0328b8ded7976a12\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\9e02f55acb5519c1aafce521c81df60c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.danikula:videocache:2.7.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\60268b0b7e0022345b7d844baa34c603\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\951155e21c14f9ee730cd0efbd9954d7\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.9.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\318188837ef5e157b4d519eae60a9598\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\63ac0999acf351b31c38c708e8546e40\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\f90b975c02ef2466f169fd8ffd66d882\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\b42768d67cdf9bf94b57fae72fcd05ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\7cdeec0974a5aa0b14bca733f4aacebf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\fb50ecd56bef3d321e0d1f76683eb209\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\0245f9927fa4876c8fa8844ea25da36e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\ced24d860edc52cd7ce5ef45761d48d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\324857cba1b4f2e13cab4a9d8ef3fcc8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\a02262597648928a3e94d507eaa6079e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\ce297f24d1b3a2cac4822bbf2a4f837c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\ad42187886aa8d90ac0d42ca7952ea19\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\c8ec8959e348773e8ced7f481d93e1d6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\25b615286d1a62266903911016c884a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\735a4c4bde7eb42592db1c27a7ea1760\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\73b655454817d7c9cc82cdc1a31f9bc7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\39dc1deeb1c5998138abc10877672e92\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\0465c65ddf54a8dfa27ec8e82dd08755\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\133e48765b85dc69d5bea9f6e9ba2e83\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\f9c9dd871a21fc3a24e25573479fa86f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\697030f1356730b53e6244949e5f22a3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\b1bd2f313322496c81e994212978f66c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\3750f28667569b291ca91219b3cacd93\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\e1ce022cbf1c8d13eba43cc75bcc06af\AndroidManifest.xml:17:1-26:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\f81d2bee6b55bf7ff1eaea7ccdcc0f7d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\ec7f0cae12229376d968adb9db9eb419\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\9383e9fa000cda95c1e051e74eb6ba9a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\66385bfa6305eef2465aeac6faceea12\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\9befd2512158b047c9ae4859135463b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\99a1924d9dea8555ab11269932c8ef77\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\afc1442886935217f75bba9dac5b3251\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\c3bc574644eaae59188d3b13b5f94826\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\447f16f7a2d95d7cd33803d62c7b3f05\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:2:1-104:12
+INJECTED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:2:1-104:12
+INJECTED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:2:1-104:12
+	package
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:4:5-27
+		INJECTED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml
+		INJECTED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:2:1-104:12
+		INJECTED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:2:1-104:12
+		INJECTED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:9:5-102:19
+MERGED from [com.danikula:videocache:2.7.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\60268b0b7e0022345b7d844baa34c603\AndroidManifest.xml:12:5-20
+MERGED from [com.danikula:videocache:2.7.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\60268b0b7e0022345b7d844baa34c603\AndroidManifest.xml:12:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\951155e21c14f9ee730cd0efbd9954d7\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\951155e21c14f9ee730cd0efbd9954d7\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\39dc1deeb1c5998138abc10877672e92\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\39dc1deeb1c5998138abc10877672e92\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\0465c65ddf54a8dfa27ec8e82dd08755\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\0465c65ddf54a8dfa27ec8e82dd08755\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\f9c9dd871a21fc3a24e25573479fa86f\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\f9c9dd871a21fc3a24e25573479fa86f\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\39dc1deeb1c5998138abc10877672e92\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:13:9-41
+	tools:ignore
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:16:9-48
+	android:icon
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:11:9-36
+	android:theme
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:15:9-40
+	android:networkSecurityConfig
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:14:9-72
+	android:name
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:10:9-40
+activity#cn.jzvd.demo.ActivityMain
+ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:screenOrientation
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:20:13-49
+	android:configChanges
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:19:13-74
+	android:name
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:18:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:23:27-74
+activity#cn.jzvd.demo.ActivityDirectPlay
+ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:27:9-30:52
+	android:screenOrientation
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:30:13-49
+	android:configChanges
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:29:13-74
+	android:name
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:28:13-47
+activity#cn.jzvd.demo.ActivityListView
+ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:31:9-34:52
+	android:screenOrientation
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:34:13-49
+	android:configChanges
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:33:13-74
+	android:name
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:32:13-45
+activity#cn.jzvd.demo.ActivityListViewNormal
+ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:35:9-38:52
+	android:screenOrientation
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:38:13-49
+	android:configChanges
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:37:13-74
+	android:name
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:36:13-51
+activity#cn.jzvd.demo.ActivityListViewFragmentViewPager
+ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:39:9-42:52
+	android:screenOrientation
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:42:13-49
+	android:configChanges
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:41:13-74
+	android:name
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:40:13-62
+activity#cn.jzvd.demo.ActivityListViewMultiHolder
+ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:43:9-46:52
+	android:screenOrientation
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:46:13-49
+	android:configChanges
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:45:13-74
+	android:name
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:44:13-56
+activity#cn.jzvd.demo.ActivityTinyWindowRecycleView
+ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:47:9-50:52
+	android:screenOrientation
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:50:13-49
+	android:configChanges
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:49:13-74
+	android:name
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:48:13-58
+activity#cn.jzvd.demo.ActivityTinyWindow
+ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:51:9-54:52
+	android:screenOrientation
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:54:13-49
+	android:configChanges
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:53:13-74
+	android:name
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:52:13-47
+activity#cn.jzvd.demo.ActivityTinyWindowRecycleViewMultiHolder
+ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:55:9-58:52
+	android:screenOrientation
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:58:13-49
+	android:configChanges
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:57:13-74
+	android:name
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:56:13-69
+activity#cn.jzvd.demo.ActivityApi
+ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:59:9-62:52
+	android:screenOrientation
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:62:13-49
+	android:configChanges
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:61:13-74
+	android:name
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:60:13-40
+activity#cn.jzvd.demo.ActivityApiUISmallChange
+ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:63:9-66:52
+	android:screenOrientation
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:66:13-49
+	android:configChanges
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:65:13-74
+	android:name
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:64:13-53
+activity#cn.jzvd.demo.ActivityApiUIBigChange
+ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:67:9-70:52
+	android:screenOrientation
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:70:13-49
+	android:configChanges
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:69:13-74
+	android:name
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:68:13-51
+activity#cn.jzvd.demo.ActivityApiRotationVideoSize
+ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:71:9-74:52
+	android:screenOrientation
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:74:13-49
+	android:configChanges
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:73:13-74
+	android:name
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:72:13-57
+activity#cn.jzvd.demo.ActivityApiCustomMedia
+ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:75:9-78:52
+	android:screenOrientation
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:78:13-49
+	android:configChanges
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:77:13-74
+	android:name
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:76:13-51
+activity#cn.jzvd.demo.ActivityListViewRecyclerView
+ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:79:9-82:52
+	android:screenOrientation
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:82:13-49
+	android:configChanges
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:81:13-74
+	android:name
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:80:13-57
+activity#cn.jzvd.demo.ActivityWebView
+ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:83:9-86:52
+	android:screenOrientation
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:86:13-49
+	android:configChanges
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:85:13-74
+	android:name
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:84:13-44
+activity#cn.jzvd.demo.ActivityApiOrientation
+ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:87:9-90:52
+	android:screenOrientation
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:90:13-49
+	android:configChanges
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:89:13-74
+	android:name
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:88:13-51
+activity#cn.jzvd.demo.ActivityApiExtendsNormal
+ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:91:9-94:52
+	android:screenOrientation
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:94:13-49
+	android:configChanges
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:93:13-74
+	android:name
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml:92:13-53
+uses-sdk
+INJECTED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml
+INJECTED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\8fab8df690c4f67ba957cc8d21a9ab62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\8fab8df690c4f67ba957cc8d21a9ab62\AndroidManifest.xml:20:5-44
+MERGED from [:jiaozivideoplayer] E:\company\JiaoZiVideoPlayer-develop\jiaozivideoplayer\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:jiaozivideoplayer] E:\company\JiaoZiVideoPlayer-develop\jiaozivideoplayer\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.8] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\558cffe123b17a4017168e0496eed675\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.8] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\558cffe123b17a4017168e0496eed675\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.4] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\e09636cde8ce1d4a0328b8ded7976a12\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.4] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\e09636cde8ce1d4a0328b8ded7976a12\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\9e02f55acb5519c1aafce521c81df60c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\9e02f55acb5519c1aafce521c81df60c\AndroidManifest.xml:20:5-44
+MERGED from [com.danikula:videocache:2.7.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\60268b0b7e0022345b7d844baa34c603\AndroidManifest.xml:8:5-10:41
+MERGED from [com.danikula:videocache:2.7.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\60268b0b7e0022345b7d844baa34c603\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\951155e21c14f9ee730cd0efbd9954d7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\951155e21c14f9ee730cd0efbd9954d7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.9.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\318188837ef5e157b4d519eae60a9598\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.9.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\318188837ef5e157b4d519eae60a9598\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\63ac0999acf351b31c38c708e8546e40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\63ac0999acf351b31c38c708e8546e40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\f90b975c02ef2466f169fd8ffd66d882\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\f90b975c02ef2466f169fd8ffd66d882\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\b42768d67cdf9bf94b57fae72fcd05ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\b42768d67cdf9bf94b57fae72fcd05ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\7cdeec0974a5aa0b14bca733f4aacebf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\7cdeec0974a5aa0b14bca733f4aacebf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\fb50ecd56bef3d321e0d1f76683eb209\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\fb50ecd56bef3d321e0d1f76683eb209\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\0245f9927fa4876c8fa8844ea25da36e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\0245f9927fa4876c8fa8844ea25da36e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\ced24d860edc52cd7ce5ef45761d48d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\ced24d860edc52cd7ce5ef45761d48d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\324857cba1b4f2e13cab4a9d8ef3fcc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\324857cba1b4f2e13cab4a9d8ef3fcc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\a02262597648928a3e94d507eaa6079e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\a02262597648928a3e94d507eaa6079e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\ce297f24d1b3a2cac4822bbf2a4f837c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\ce297f24d1b3a2cac4822bbf2a4f837c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\ad42187886aa8d90ac0d42ca7952ea19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\ad42187886aa8d90ac0d42ca7952ea19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\c8ec8959e348773e8ced7f481d93e1d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\c8ec8959e348773e8ced7f481d93e1d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\25b615286d1a62266903911016c884a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\25b615286d1a62266903911016c884a3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\735a4c4bde7eb42592db1c27a7ea1760\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\735a4c4bde7eb42592db1c27a7ea1760\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\73b655454817d7c9cc82cdc1a31f9bc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\73b655454817d7c9cc82cdc1a31f9bc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\39dc1deeb1c5998138abc10877672e92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\39dc1deeb1c5998138abc10877672e92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\0465c65ddf54a8dfa27ec8e82dd08755\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\0465c65ddf54a8dfa27ec8e82dd08755\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\133e48765b85dc69d5bea9f6e9ba2e83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\133e48765b85dc69d5bea9f6e9ba2e83\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\f9c9dd871a21fc3a24e25573479fa86f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\f9c9dd871a21fc3a24e25573479fa86f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\697030f1356730b53e6244949e5f22a3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\697030f1356730b53e6244949e5f22a3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\b1bd2f313322496c81e994212978f66c\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\b1bd2f313322496c81e994212978f66c\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\3750f28667569b291ca91219b3cacd93\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\3750f28667569b291ca91219b3cacd93\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\e1ce022cbf1c8d13eba43cc75bcc06af\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\e1ce022cbf1c8d13eba43cc75bcc06af\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\f81d2bee6b55bf7ff1eaea7ccdcc0f7d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\f81d2bee6b55bf7ff1eaea7ccdcc0f7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\ec7f0cae12229376d968adb9db9eb419\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\ec7f0cae12229376d968adb9db9eb419\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\9383e9fa000cda95c1e051e74eb6ba9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\9383e9fa000cda95c1e051e74eb6ba9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\66385bfa6305eef2465aeac6faceea12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\66385bfa6305eef2465aeac6faceea12\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\9befd2512158b047c9ae4859135463b9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\9befd2512158b047c9ae4859135463b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\99a1924d9dea8555ab11269932c8ef77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\99a1924d9dea8555ab11269932c8ef77\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\afc1442886935217f75bba9dac5b3251\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\afc1442886935217f75bba9dac5b3251\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\c3bc574644eaae59188d3b13b5f94826\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\c3bc574644eaae59188d3b13b5f94826\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\447f16f7a2d95d7cd33803d62c7b3f05\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\447f16f7a2d95d7cd33803d62c7b3f05\AndroidManifest.xml:20:5-44
+INJECTED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml
+INJECTED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml
+		INJECTED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml
+		ADDED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml
+		INJECTED from E:\company\JiaoZiVideoPlayer-develop\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:jiaozivideoplayer] E:\company\JiaoZiVideoPlayer-develop\jiaozivideoplayer\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\e1ce022cbf1c8d13eba43cc75bcc06af\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] C:\Users\¸µÓ¢Ïè\.gradle\caches\transforms-2\files-2.1\e1ce022cbf1c8d13eba43cc75bcc06af\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:jiaozivideoplayer] E:\company\JiaoZiVideoPlayer-develop\jiaozivideoplayer\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:22-76

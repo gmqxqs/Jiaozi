@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 整个进度条一开始的样式-->
+    <item android:id="@android:id/background">
+        <shape>
+            <solid android:color="#ffffff" />
+            <size android:height="100dp" />
+            <corners android:radius="1.5dip" />
+        </shape>
+    </item>
+
+    <!-- 后又覆盖整个进度条的样式-->
+    <item android:id="@android:id/secondaryProgress">
+        <clip>
+            <shape>
+                <solid android:color="#ffffff" />
+                <size android:height="1dp" />
+                <corners android:radius="1.5dip" />
+            </shape>
+        </clip>
+    </item>
+
+    <!--播放过的进度条的样式-->
+    <item android:id="@android:id/progress">
+         <clip>
+            <shape>
+                <corners android:radius="1dp" />
+                <size android:height="2dp" />
+                <solid android:color="#FF7343E9" />
+                <gradient
+                    android:centerColor="#7343E9"
+                    android:endColor="#FF587F"
+                    android:startColor="#23C7FE"
+                    android:type="linear"/>
+            </shape>
+        </clip>
+    </item>
+
+
+
+</layer-list>
